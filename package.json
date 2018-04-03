@@ -1,0 +1,15 @@
+{
+  "name": "selfbot",
+  "version": "0.0.1",
+  "description": "self bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Olionkey",
+  "license": "ISC",
+  "dependencies": {
+    "better-pastebin": "^0.4.1",
+    "discord.js": "^11.3.1"
+  }
+}
