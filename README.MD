@@ -1,4 +1,4 @@
-#REQUIRED ITEMS
+# REQUIRED ITEMS
 - The most recent version of node.js installed and working
 - a working discord account
 
@@ -37,6 +37,6 @@
 
 }
 ```
-#HOW TO RUN
+## HOW TO RUN
 - To run the bot open up command prompt and move into the directory of the bot folder, which has index.js in
 - next run node . which will start the bot.
